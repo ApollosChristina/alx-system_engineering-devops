@@ -1,1 +1,1 @@
-Display current directory contents,including hidden files starting with .
+scripts that prints the absolute path name of the current working direction
