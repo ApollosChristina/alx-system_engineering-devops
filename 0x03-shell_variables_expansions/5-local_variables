@@ -1,0 +1,3 @@
+#!/bin/bash
+declare -p | cut -d \  -f 3- | tr -d '"'
+:wq
